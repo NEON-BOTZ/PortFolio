@@ -1,5 +1,5 @@
 export default {
-  tgUsername: "Vivek",
+  tgUsername: "Vivek_Kerala",
   githubUsername: "Vivek-Tp",
   websiteName: "@Vivek-Tp",
   heroHead: "Hey There !!",
